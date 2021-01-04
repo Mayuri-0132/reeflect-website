@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title> Reeflect </title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.button {
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {background-color: #ffb6c1 ;} /* pink */  
+.button3 {background-color: #008CBA;} /* Red */ 
+.button4 {background-color: #f44336; color: black;} /* Gray */ 
+.button5 {background-color: lime green} /* lime green */
+*
+ {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+
+{
+  
+  background-image: url("https://static.thenounproject.com/png/114599-200.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav .login-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+  width:120px;
+}
+
+.topnav .login-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background-color: #555;
+  color: white;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .login-container button:hover {
+  background-color: green;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav .login-container {
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .login-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="#home">reeflect</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <div class="login-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Find your Aha Moment,
+Rediscover Your Closet.</h2>
+  <p>
+</p>
+  <p style="color: red ;">Sign Up now and Join the community</p>
+</div>
+
+ <button class="button button2" onclick= <p><a href="https://www.google.com/">Continue with Google</button>
+
+<button  class="button button3" onclick= <p><a href = "https://www.facebook.com/">Continue with Facebook</button>
+
+<button class="button button4"  onclick= <p><a href= "https://mail.google.com/mail/?tab=rm&ogbl"> Sign up with Email </button>
+
+
+
+
+
+
+
+<p style="color: green"> Download the app free on  iphone, ipad and android </p>
+
+<button class="button button5"  onclick= <p><a href= "http://play.google.com/store/apps/details?id=<package_name>"> Get it on GooglePlay</button>
+</body>
+
+<div class="row">
+  <div class="column">
+    <a href=" https://assets.vogue.com/photos/5f5fac8b7d9362f52d645560/16:9/w_1280,c_limit/social-holding.jpg">
+  <p></p>
+<img src= "https://assets.vogue.com/photos/5f5fac8b7d9362f52d645560/16:9/w_1280,c_limit/social-holding.jpg" alt=" formals" style="width:300px;height:300px;">
+</a>
+  </div>
+  <div class="column">
+    <a href=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwishqatar.org%2Fcollection%2Fcute-doll-images-with-quotes.html&psig=AOvVaw2Ad2jzWCfXJkvYhbcskDC5&ust=1609842516469000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiolfKIgu4CFQAAAAAdAAAAABAa">
+  <p></p>
+<img src= "https://cdnaws.sharechat.com/1f1bfd86-48e6-4df8-a82d-ec08734ea643-620d223e-61dc-459a-8a1f-ca28c82b4538_compressed_40.jpg" alt=" formals" style="width:300px;height:300px;">
+    
+  </div>
+  <div class="column">
+
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.express.co.uk%2Fnews%2Fscience%2F1138008%2Fearth-orbit-change-dying-sun-asteroid-mining-solar-sail-space-news&psig=AOvVaw0p6OLco1bBVYF3sxqrYPqE&ust=1609844048146000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC6p8uOgu4CFQAAAAAdAAAAABAD">
+  <p></p>
+
+
+<img src= "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1138008.jpg" alt=" formals" style="width:300px;height:300px;">
+    
+</div>
+
+
+</html>
